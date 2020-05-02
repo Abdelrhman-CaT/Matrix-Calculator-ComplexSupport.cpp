@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556320868 source:d:\lectures\programming\mr_cat's training\matcat\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+	<sstream>
+	<string.h>
+
